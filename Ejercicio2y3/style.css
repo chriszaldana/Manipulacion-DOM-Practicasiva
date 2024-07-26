@@ -1,0 +1,29 @@
+.tareas{
+    background-color:  rgba(179,220,237,1);
+}
+
+.items{
+    background-color: #77E4C8;
+}
+
+.tarea {
+    background-color: #4dd0e1;
+    margin: 10px 0;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.tareas p {
+    flex-grow: 1;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.tareas .btn-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: inherit;
+    text-decoration: none;
+}
